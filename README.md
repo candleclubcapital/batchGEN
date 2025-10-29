@@ -1,5 +1,6 @@
 Python GUI for batch Stable Diffusion XL image-to-image generation with optional refiner support. Built with PySide6 and Diffusers, it processes folders of input images into stylized outputs using SDXL pipelines, complete with logging, progress tracking, and real-time control.
-<img width="2560" height="1440" alt="Screenshot 2025-10-29 at 9 42 49 AM" src="https://github.com/user-attachments/assets/c47ac9c9-23bf-415d-bcf9-b471836af87e" />
+<img width="1171" height="678" alt="Screenshot 2025-10-29 at 2 19 24 PM" src="https://github.com/user-attachments/assets/9f79271f-22ba-46ab-8577-d6f99b96d4f5" />
+
 
 ---
 
